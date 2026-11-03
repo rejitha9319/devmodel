@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
-public class MultiplicationTable {
+public class multiplicationtable {
     public static void main(String[] args) {
         int number;
 
