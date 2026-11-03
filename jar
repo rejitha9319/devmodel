@@ -1,0 +1,3 @@
+develop a java aplication to read an integer and display its multiplication table from 1 to 10 ,
+configure a jenkins continuous integration pipeline to build the application,package it as a jar file,deploy 
+the jar to a seperate deployment diectory on the local machine and execute it also i have
